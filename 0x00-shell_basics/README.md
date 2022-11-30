@@ -4,3 +4,4 @@
 3. The long format
 5. I love numbers
 6.welcom
+7. Betty in my first directory
